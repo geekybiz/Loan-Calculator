@@ -1,14 +1,14 @@
 Loan-Calculator
 ===============
 
-Mini Project that uses the full stack. 
+Mini Project that uses the full stack.
 
 ##Objectives
 You'll create a really simple Angular app that calculates loan payment amounts based on an interest rate retrieved from a simple API that you'll also create.
 
 ##Step 1: Set up front end
 
-We're going to set up our front end part of this app by having express fetch files and relay them to the client. We'll also make a really basic Angular app that will calcaulate payments for a loan.
+We're going to set up our front end part of this app by having express fetch files and relay them to the client. We'll also make a really basic Angular app that will calculate payments for a loan.
 
 * Use express's static middleware to serve a folder of static assets.
  * Create a folder called "public"
@@ -16,7 +16,7 @@ We're going to set up our front end part of this app by having express fetch fil
  * Move the styles.css to the public folder.
  * In the public folder, create a "js" folder.
  * In the js folder, create the following files:
- 
+
 ```
 public/js/app.js
 public/js/controllers/main-ctrl.js
